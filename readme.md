@@ -29,7 +29,7 @@ assets/: Contains localized audio and sprite animation frames.
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/flappy-bird-python.git
+git clone https://github.com/rizwanahmed109-beep/flappy-bird-python.git
 Install dependencies:
 
 Bash
