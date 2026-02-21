@@ -25,7 +25,8 @@ A physics-based 2D side-scroller built with **Python** and **Pygame**, featuring
 
 * Bash
 pip install pygame
-Execute the game:
+
+* Execute the game:
 
 * Bash
 python main.py
