@@ -3,7 +3,7 @@ A physics-based 2D side-scroller built with **Python** and **Pygame**, featuring
 
 ## 🛠 Technical Engineering Highlights
 * **Pygame Framework**: Leverages the Pygame library for sprite management, hardware-accelerated rendering, and real-time event handling.
-* **Object-Oriented Architecture**: The project follows a strict **Separation of Concerns (SoC)** pattern, with distinct classes for game entities (`Bird`,) and environment management (`World`).
+* **Object-Oriented Architecture**: The project follows a strict **Separation of Concerns (SoC)** pattern, with distinct classes for game entities (`Bird`) and environment management (`World`).
 * **Dynamic Difficulty Scaling**: Implemented a linear difficulty curve in `world.py` that reduces the obstacle gap as the player's score increases, balancing player engagement with challenge.
 * **Collision Optimization**: Utilizes optimized hitbox logic by shrinking the bird’s collision rectangle to 70% of its visual size, enhancing the user experience by making near-misses feel intentional.
 * **Centralized Configuration**: All game constants, asset paths, and physics parameters are managed via `settings.py` for high maintainability.
