@@ -19,13 +19,13 @@ A physics-based 2D side-scroller built with **Python** and **Pygame**, featuring
 ##  How to Run
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/rizwanahmed109-beep/flappy-bird-python.git](https://github.com/rizwanahmed109-beep/flappy-bird-python.git)
+   git clone https://github.com/rizwanahmed109-beep/flappy-bird-python.git
 
 ## Install dependencies:
 
-** Bash
+* Bash
 pip install pygame
 Execute the game:
 
-** Bash
+* Bash
 python main.py
