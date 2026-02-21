@@ -21,12 +21,12 @@ A physics-based 2D side-scroller built with **Python** and **Pygame**, featuring
    ```bash
    git clone https://github.com/rizwanahmed109-beep/flappy-bird-python.git
 
-## Install dependencies:
+2. **Install Dependencies**:
 
-* Bash
-pip install pygame
+   ```bash
+   pip install pygame
 
-* Execute the game:
+3. **Execute the game**:
 
-* Bash
-python main.py
+   ```bash
+   python main.py
